@@ -3,7 +3,7 @@
 <h4 align="center">A DevOps and Cloud Engineer</h4>
 </div>
 
-I'm a dedicated DevOps Engineer skilled in Terraform, Docker, Kubernetes, and AWS. My true passion is streamlining processes and tasks through automation, while also excelling in containerizing applications. As a recent graduate, I've honed my abilities and I'm eager to take on new challenges.
+I'm a dedicated DevOps Engineer skilled in Terraform, Docker, Kubernetes, Azure and AWS. My true passion is streamlining processes and tasks through automation, while also excelling in containerizing applications. Collaborative team player with strong problem-solving skills and a dedication to continuous improvement. Adept at orchestrating CI/CD pipelines and ensuring robust monitoring and maintenance frameworks. Committed to delivering high-quality solutions while meeting service-level objective.
 
 For a glimpse into my expertise, explore my projects. Stay updated on my latest exploits in the world of DevOps by connecting with me on [LinkedIin](https://www.linkedin.com/in/nishantgupta27/). Also check out my certifications [here](https://www.credly.com/users/nishant-gupta.66df2069).
 
