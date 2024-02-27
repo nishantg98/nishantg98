@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi<img width="35">, I'm Nishant</h1>
-<h4 align="center">A DevOps and Software Development Engineer</h4>
+<h4 align="center">A DevOps and Cloud Engineer</h4>
 </div>
 
 I'm a dedicated DevOps Engineer skilled in Terraform, Docker, Kubernetes, and AWS. My true passion is streamlining processes and tasks through automation, while also excelling in containerizing applications. As a recent graduate, I've honed my abilities and I'm eager to take on new challenges.
