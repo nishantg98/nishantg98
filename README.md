@@ -3,14 +3,26 @@
 <h1 align="center">Hi 👋, I'm Nishant Gupta from India 🇮🇳</h1>
 
 <h3 align="center">
-Senior DevOps Engineer | GCP Professional Cloud Architect | 5+ Years Building Enterprise Cloud Infrastructure
+Senior DevOps Engineer | GCP Professional Cloud Architect | 4+ Years Building Enterprise Cloud Infrastructure
 </h3>
+
+<p align="center">
+<a href="https://nishantg98.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=flat-square&logo=google-chrome" /></a>
+<a href="https://medium.com/@nishantg2798"><img src="https://img.shields.io/badge/Medium-@nishantg2798-black?style=flat-square&logo=medium" /></a>
+<a href="https://www.linkedin.com/in/nishantgupta27/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+<a href="https://www.credly.com/users/nishant-gupta.66df2069"><img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat-square&logo=credly" /></a>
+</p>
 
 <img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=nishantg98&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+## 📑 Quick Navigation
+[About](#-about-me) • [Certifications](#-certifications) • [Expertise](#-core-expertise) • [Skills](#-devops-toolchain) • [Learning](#-currently-exploring) • [Blog](#️-latest-blog-posts) • [Journey](#-my-devops-journey) • [Collaborate](#-lets-collaborate) • [Contact](#-connect-with-me)
 
 ---
 
@@ -42,6 +54,17 @@ My expertise spans **Kubernetes, AWS, Azure, Google Cloud Platform, Terraform, a
 </p>
 
 📜 **View all certifications:** [Credly Profile](https://www.credly.com/users/nishant-gupta.66df2069)
+
+---
+
+## 💡 Core Expertise
+
+**Cloud Platforms:** GCP (Expert) • AWS (Advanced) • Azure (Advanced)
+**Container Orchestration:** Kubernetes (Expert) • Docker (Expert) • Helm (Advanced)
+**Infrastructure as Code:** Terraform (Expert) • Ansible (Advanced)
+**CI/CD:** GitHub Actions (Expert) • Jenkins (Advanced) • GitLab CI (Advanced)
+**Observability:** Prometheus • Grafana • ELK Stack • Jaeger
+**Service Mesh:** Istio • ArgoCD
 
 ---
 
@@ -99,6 +122,16 @@ My expertise spans **Kubernetes, AWS, Azure, Google Cloud Platform, Terraform, a
 
 ---
 
+## 🌱 Currently Exploring
+
+- **Advanced Kubernetes Patterns:** Operators, Custom Resources, and advanced scheduling
+- **Service Mesh Architectures:** Deep dive into Istio, Linkerd, and traffic management
+- **FinOps & Cloud Cost Optimization:** Strategies to optimize cloud spending across multi-cloud environments
+- **GitOps Best Practices:** Advanced ArgoCD and Flux workflows for continuous delivery
+- **Platform Engineering:** Building internal developer platforms and improving developer experience
+
+---
+
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -112,25 +145,34 @@ My expertise spans **Kubernetes, AWS, Azure, Google Cloud Platform, Terraform, a
 
 ## 🗻 My DevOps Journey
 
-My journey in DevOps showcases **5+ years of comprehensive expertise**, marked by notable achievements and contributions across various technologies and projects.
+My journey in DevOps showcases **4+ years of comprehensive expertise**, marked by notable achievements and contributions across various technologies and projects.
 
-I began my professional journey as an **Associate DevOps Engineer at Successive Digital** in India. There, I played a pivotal role in driving the adoption of **Kubernetes**, resulting in a significant enhancement in infrastructure scalability and performance. My optimization efforts on **Azure** led to a remarkable improvement in application performance, handling **millions of daily requests** more efficiently.
+I began my professional journey as an **Associate DevOps Engineer at Successive Digital** in India, where I played a pivotal role in driving the adoption of **Kubernetes**, resulting in significant enhancements in infrastructure scalability and performance. My optimization efforts on **Azure** led to remarkable improvements in application performance, handling **millions of daily requests** efficiently. I established robust **CI/CD pipelines**, implemented **Infrastructure as Code** practices with Terraform, and worked as an **SRE** troubleshooting complex issues and increasing system stability.
 
-Collaborating with cross-functional teams, I established robust **CI/CD pipelines**, significantly reducing deployment time and enhancing system reliability. By implementing **Infrastructure as Code** practices with Terraform, I streamlined operations and minimized manual efforts substantially. Additionally, my role as an **SRE** involved troubleshooting complex issues, significantly increasing system stability.
+Currently, as a **Senior DevOps Engineer at UKG**, I'm leading cloud infrastructure initiatives and driving DevOps transformation across the organization, architecting solutions across AWS, GCP, and Azure.
 
-Currently, as a **Senior DevOps Engineer at UKG**, I'm leading cloud infrastructure initiatives and driving DevOps transformation across the organization.
+My educational background from the **University of Nottingham** (MSc) and **Guru Gobind Singh Indraprastha University** (BTech), combined with certifications including **GCP Professional Cloud Architect, GCP Associate Cloud Engineer, HashiCorp Terraform Associate**, and others, underscores my dedication to continuous learning.
 
-My educational background, including an **MSc in Information Systems and Operations Management** from the University of Nottingham and a **BTech in Computer Science and Engineering** from Guru Gobind Singh Indraprastha University, forms a solid foundation for my technical prowess.
+My journey exemplifies a blend of **technical expertise, collaboration, and innovation**, resulting in tangible improvements in system performance, reliability, and security. Looking ahead, I'm driven by my commitment to keep learning and evolving in the DevOps field, exploring new technologies and their potential.
 
-My technical skills encompass a wide array of **Cloud and DevOps tools** including proficiency in **GCP, AWS, Azure, Kubernetes, Docker, Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI, ArgoCD, Helm, Prometheus, Grafana, ELK Stack, Python, Bash, Go**, and more.
+---
 
-My significant project involvement in the **DAN Media-Ecosystem project** highlights my adeptness in managing complex infrastructures and orchestrating monitoring for numerous clusters and VMs. I ensured service level objectives were met through meticulous **SLA/SLI/SLO frameworks** and automated daily tasks.
+## 🤝 Let's Collaborate
 
-My certifications including **GCP Professional Cloud Architect, GCP Associate Cloud Engineer, HashiCorp Terraform Associate**, and others underscore my dedication to continuous learning and staying abreast of industry best practices.
+- 💼 **Open to consulting opportunities** in DevOps & Cloud Architecture
+- 🎤 **Available for tech talks and workshops** on Kubernetes, Terraform, and Cloud platforms
+- 📝 **Contributing to open-source** DevOps tools and projects
+- 🌟 **Mentoring aspiring DevOps engineers** and sharing knowledge with the community
+- 🤝 **Collaborating on innovative** cloud-native and DevOps projects
 
-Overall, my DevOps journey exemplifies a blend of **technical expertise, collaboration, and innovation**, resulting in tangible improvements in system performance, reliability, and security.
+---
 
-Looking ahead, I'm driven by my commitment to keep learning and evolving in the DevOps field. Each step forward excites me as I explore new technologies and their potential.
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nishantg98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantg98&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
@@ -143,7 +185,10 @@ Looking ahead, I'm driven by my commitment to keep learning and evolving in the 
 </p>
 
 📫 Reach me at **nishantg2798@gmail.com**
+🌐 Visit my portfolio: **[nishantg98.github.io/portfolio](https://nishantg98.github.io/portfolio/)**
 
 ---
+
+💬 **Want to discuss DevOps, Cloud, or collaborate on a project?** Feel free to reach out!
 
 ⚡ **Fun fact:** I'm passionate about streamlining processes through automation and solving real production problems at scale!
