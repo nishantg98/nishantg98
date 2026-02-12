@@ -16,7 +16,7 @@ Senior DevOps Engineer | GCP Professional Cloud Architect | 5+ Years Building En
 
 <h2>👨‍💻 About Me</h2>
 
-I am a **Senior DevOps Engineer with 5+ years of experience** building enterprise cloud infrastructure. As a **GCP Professional Cloud Architect**, I specialize in designing, automating, and operating production-grade cloud platforms at scale.
+I am a **Senior DevOps Engineer with 4+ years of experience** building enterprise cloud infrastructure. As a **GCP Professional Cloud Architect**, I specialize in designing, automating, and operating production-grade cloud platforms at scale.
 
 My expertise spans **Kubernetes, AWS, Azure, Google Cloud Platform, Terraform, and CI/CD automation**. I focus on delivering **scalability, reliability, security, and automation** across the entire delivery lifecycle.
 
@@ -99,47 +99,14 @@ My expertise spans **Kubernetes, AWS, Azure, Google Cloud Platform, Terraform, a
 
 ---
 
-## 💼 Professional Experience
-
-### **Senior DevOps Engineer @ [UKG](https://www.ukg.com/)**
-**June 2025 - Present**
-- Leading cloud infrastructure initiatives for enterprise-scale applications
-- Architecting multi-cloud solutions across AWS, GCP, and Azure
-- Driving DevOps transformation and automation strategies
-
-### **Associate DevOps Engineer @ [Successive Digital](https://successive.tech)**
-**October 2020 - May 2025**
-- Drove Kubernetes adoption, significantly enhancing infrastructure scalability
-- Optimized Azure infrastructure to handle millions of daily requests efficiently
-- Established CI/CD pipelines reducing deployment time substantially
-- Implemented Infrastructure as Code with Terraform, streamlining operations
-- Worked as SRE troubleshooting complex issues and increasing system stability
-- Managed DAN Media-Ecosystem project with complex multi-cluster infrastructure
-- Ensured service level objectives through meticulous SLA/SLI/SLO frameworks
-
----
-
-## ⭐️ Featured DevOps Projects
-
-### 🎯 **Enterprise Kubernetes Platform**
-Architected production Kubernetes clusters across **AWS EKS, GCP GKE, and Azure AKS**. Implemented auto-scaling, service mesh with Istio, and monitoring with Prometheus/Grafana. Successfully managed **100+ microservices with 99.9% uptime**.
-
-### 🚀 **Zero-Downtime CI/CD Pipeline**
-Built enterprise CI/CD pipelines using **Jenkins and GitHub Actions**, reducing deployment time by **70%**. Integrated automated testing, security scanning, and blue-green deployments for **1M+ users**.
-
-### ☁️ **Multi-Cloud IaC Framework**
-Created reusable **Terraform modules and Ansible playbooks** for AWS, GCP, and Azure. Standardized deployment across **50+ environments**, reducing provisioning time from **days to hours**.
-
-### 📊 **Unified Observability Platform**
-Designed comprehensive observability solution with **Prometheus, Grafana, ELK Stack, and Jaeger**. Built custom dashboards for SLA monitoring. Reduced **MTTR by 60%** through intelligent alerting and incident management.
-
----
-
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-*Coming soon from Medium [@nishantg2798](https://medium.com/@nishantg2798)*
+- [Mastering Azure Fundamentals Certification: A Comprehensive Tutorial](https://nishantg2798.medium.com/mastering-azure-fundamentals-certification-a-comprehensive-tutorial-d68b89808887)
+- [AWS Cloud Practitioner Tutorial](https://nishantg2798.medium.com/aws-cloud-practioner-tutorial-697eac140ad9)
 <!-- BLOG-POST-LIST:END -->
+
+📚 More articles: [Medium @nishantg2798](https://medium.com/@nishantg2798)
 
 ---
 
@@ -176,26 +143,6 @@ Looking ahead, I'm driven by my commitment to keep learning and evolving in the 
 </p>
 
 📫 Reach me at **nishantg2798@gmail.com**
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishantg98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantg98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantg98&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantg98&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
